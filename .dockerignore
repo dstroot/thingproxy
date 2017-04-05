@@ -1,0 +1,6 @@
+*
+
+# Only include these files:
+!package.json
+!server.js
+!config.js
